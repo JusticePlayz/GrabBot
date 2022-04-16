@@ -9,6 +9,3 @@ def RunBot():
         
         
         
-def get():
-    if RunBot() == True:
-        print("Bot is running")
